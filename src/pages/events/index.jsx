@@ -194,7 +194,7 @@ const Events = () => {
               link="https://worthy-hack-23.devfolio.co/"
               title="Worthy Hack"
               eventdate={"Sept 9-10, 2023"}
-              featuredImage={opensource}
+              featuredImage={worthyhack}
               description="The Outcome of the Worthy Hack is to make students to develop innovative projects in team and develop projects relating to sustainable development and to showcase their technical skills."
               rsvp="https://worthy-hack-23.devfolio.co/"
             />
