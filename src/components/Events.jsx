@@ -13,6 +13,7 @@ import android from "../../public/assets/events/android.png";
 import cvToCareer from "../../public/assets/events/cv-to-career.png";
 import becomGdscLead2024 from "../../public/assets/events/become-gdsc-lead-2024.png";
 import leftarrow from "../../public/assets/left-arrow.svg";
+import worthyhack from "../../../public/assets/events/worthy.jpg";
 import rightarrow from "../../public/assets/right-arrow.svg";
 
 const Events = () => {
@@ -126,6 +127,15 @@ const Events = () => {
               featuredImage={opensource}
               description="In this GDSC session, we'll explore the world of open source software development, the Git version control system, and the collaborative platform, GitHub. These three elements play a crucial role in modern software development, enabling teams to work together efficiently, contribute to projects globally, and foster innovation in the tech community."
               rsvp="https://gdsc.community.dev/events/details/developer-student-clubs-vignans-institute-of-information-technology-visakhapatnam-presents-intro-to-open-source-amp-hands-on-git-amp-github-1/"
+            />
+            <EventCard
+              className={`mr-6`}
+              link="https://worthy-hack-23.devfolio.co/"
+              title="Worthy Hack"
+              eventdate={"Sept 9-10, 2023"}
+              featuredImage={worthyhack}
+              description="The Outcome of the Worthy Hack is to make students to develop innovative projects in team and develop projects relating to sustainable development and to showcase their technical skills."
+              rsvp="https://worthy-hack-23.devfolio.co/"
             />
             <EventCard
               className={`mr-0`}
