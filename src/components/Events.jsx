@@ -13,7 +13,7 @@ import android from "../../public/assets/events/android.png";
 import cvToCareer from "../../public/assets/events/cv-to-career.png";
 import becomGdscLead2024 from "../../public/assets/events/become-gdsc-lead-2024.png";
 import leftarrow from "../../public/assets/left-arrow.svg";
-import worthyhack from "../../../public/assets/events/worthy.jpg";
+import worthyhack from "../../public/assets/events/worthy.jpg";
 import rightarrow from "../../public/assets/right-arrow.svg";
 
 const Events = () => {
